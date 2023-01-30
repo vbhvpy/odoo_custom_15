@@ -9,8 +9,8 @@
         This will be used for the Employee performance evaluation Program in the system.
     """,
 
-    'author': "Vaibhav",
-    'website': "vaibhav14b@gmail.com",
+    'author': "Vaibhav, Snackat",
+    'website': "www.snackat.com",
     'images': ["static/description/evaluation_prog.png"],
 
     'category': 'Human Resources/Employees',
